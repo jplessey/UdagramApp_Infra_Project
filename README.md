@@ -11,11 +11,9 @@ Some important details about my project:
 <img src="images/udagramInfra diagram.jpg">
 
 ## Sources of information and libraries used
-* Infrastructure Diagrams, Networking Infrastructure and Servers and Security Groups lessons from Part 3, Deploy Infrastructure as Code of the Nanodegree program.
-* Setting Up NAT Instances: 
-  https://docs.aws.amazon.com/vpc/latest/userguide/VPC_NAT_Instance.html
-* Attaching an IAM managed policy to an IAM role in AWS CloudFormation: 
-  https://aws.amazon.com/es/premiumsupport/knowledge-center/cloudformation-attach-managed-policy/
+* Infrastructure Diagrams, Networking Infrastructure and Servers and Security Groups lessons from Deploy Infrastructure as Code, Part 3 of the Nanodegree program.
+* Setting Up NAT Instances: https://docs.aws.amazon.com/vpc/latest/userguide/VPC_NAT_Instance.html
+* Attaching an IAM managed policy to an IAM role in AWS CloudFormation: https://aws.amazon.com/es/premiumsupport/knowledge-center/cloudformation-attach-managed-policy/
 * Fonts animations in app's landing page from: https://daneden.github.io/animate.css/
 * Fonts used in app's landing page: https://fonts.google.com/
 
