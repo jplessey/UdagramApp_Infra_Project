@@ -6,7 +6,6 @@ Some important details about my project:
 * Default AWS Region used: US East (N. Virginia)us-east-1. (AWS Educate starter account supported region).
 * Set my own public S3 Bucket (udagram-demo-1) to make the manual copy of all app's files into the web servers of the infrastructure.
 * The possibilities for SSH connections was considered since NAT Instances can work as bastions. All Security Groups rules regarding SSH connections are commented in the script. Commenting out those and running a stack update will enable SSH connections.  
-* URL: http://udagr-webap-1q8knp55ldh8f-294895476.us-east-1.elb.amazonaws.com/
 
 ## Infrastructure diagram
 <img src="images/udagramInfra diagram.jpg">
