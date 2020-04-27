@@ -483,18 +483,5 @@ Outputs:
         Value: !Join [ "", [ 'http://', !GetAtt WebAppLB.DNSName ]]
         Export:
             Name: !Sub ${EnvironmentName}-LBDNS-NAME
-                       
-                    
+
             
-                                   
-
-
-                
-                
-
-                                                      
-                            
-
-                    
-                                          
-
